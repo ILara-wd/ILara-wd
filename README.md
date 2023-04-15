@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Irving Lara 👋</h1>
 </div>
-<img src="http://warriorsdev.com/cdn/profile_github_readme.png">
+<a href="https://www.linkedin.com/in/irvingglara-mobile-developer/">
+<img src="http://warriorsdev.com/cdn/profile_github_readme.png"/>
+</a>
 <!--
 **ILara-wd/ILara-wd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
