@@ -2,20 +2,6 @@
 <h1 align="center">Hola, soy Irving Lara 👋</h1>
 </div>
 <img src="http://warriorsdev.com/cdn/profile_github_readme.png">
-<!--
-**ILara-wd/ILara-wd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Sobre mi
 Ingeniero de Software con 7 años de experiencia como Android Developer, participando en todas las etapas del ciclo de vida del desarrollo de software, desarrollando en back end y front end, diseñando y creando aplicaciones con distintas tecnologías y utilizando arquitecturas, patrones de diseño y las mejores prácticas para el funcionamiento óptimo del software
@@ -24,7 +10,9 @@ Ingeniero de Software con 7 años de experiencia como Android Developer, partici
 - 💻 Software Developer
 - 🕹️ Desarrollo de Juegos
 <br>
+
 ## Tecnologies:
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
 [![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)]()
@@ -33,7 +21,6 @@ Ingeniero de Software con 7 años de experiencia como Android Developer, partici
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)]()
-[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)]()
 </br>
 [![Sql Server](https://img.shields.io/badge/SqlServer-FFCA28?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FFCA28)]()
 [![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)]()
@@ -51,11 +38,3 @@ Ingeniero de Software con 7 años de experiencia como Android Developer, partici
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ILara-wd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILara-wd&layout=compact" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ILara-wd" />
-</a>
