@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy Irving Lara 👋</h1>
 </div>
 <img src="http://warriorsdev.com/cdn/profile_github_readme.png">
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ILara-wd)
 
 ## Sobre mi
 Ingeniero de Software con 7 años de experiencia como Android Developer, participando en todas las etapas del ciclo de vida del desarrollo de software, desarrollando en back end y front end, diseñando y creando aplicaciones con distintas tecnologías y utilizando arquitecturas, patrones de diseño y las mejores prácticas para el funcionamiento óptimo del software
