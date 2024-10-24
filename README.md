@@ -4,7 +4,7 @@
 <img src="http://warriorsdev.com/cdn/profile_github_readme.png">
 
 ## Sobre mi
-Ingeniero de Software con 7 años de experiencia como Android Developer, participando en todas las etapas del ciclo de vida del desarrollo de software, desarrollando en back end y front end, diseñando y creando aplicaciones con distintas tecnologías y utilizando arquitecturas, patrones de diseño y las mejores prácticas para el funcionamiento óptimo del software
+Ingeniero de Software con 8 años de experiencia como Android Developer, participando en todas las etapas del ciclo de vida del desarrollo de software, desarrollando en back end y front end, diseñando y creando aplicaciones con distintas tecnologías y utilizando arquitecturas, patrones de diseño y las mejores prácticas para el funcionamiento óptimo del software
 
 - 📲 Mobile Developer
 - 🖥️ Software Developer
