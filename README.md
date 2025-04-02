@@ -10,6 +10,7 @@ Ingeniero de Software con 8 años de experiencia como Android Developer, partici
 - 🖥️ Software Developer
 - 💻 [Portafolio](https://github.com/ILara-wd/portfolio)
 - 🤖 [PlayStore](https://play.google.com/store/apps/dev?id=7906574083418100097)
+- 🗒️ [Github Gits](https://gist.github.com/ILara-wd)
 <br>
 
 ## Tecnologies:
